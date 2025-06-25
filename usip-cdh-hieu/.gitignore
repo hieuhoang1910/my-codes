@@ -1,0 +1,18 @@
+# -----------------------------------------------------------------------------
+# Created By: Jimmy Michels jdmfq6@umsystem.edu
+# ------------------------------------------------=============================
+
+#   In order for .gitignore to work:
+#	Must implement .gitignore file before adding the ignored files to repositor
+#	Thus, if want to ignore already added files, must delete them before adding
+#   .gitignore
+
+#Ignored Directories
+## Folder generated when compiling the code
+Debug
+## Visual Studio Files
+*.vs
+*.json 
+*.atsln
+*.xml
+*.cppproj
