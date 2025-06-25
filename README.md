@@ -44,7 +44,7 @@ Feel free to explore, fork, or reach out!
 
 ## 📫 Contact
 - 📧 hieuhoang1910@outlook.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(Add yours if public)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hieu-hoang-8b195224a/)*
 
 ---
 
