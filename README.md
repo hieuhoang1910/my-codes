@@ -28,7 +28,7 @@ Converts voltage readings from pressure transducers to psi using known sensitivi
 
 ## 🚀 About Me
 
-I'm an Aerospace Engineering student passionate about propulsion, controls, and experimental testing. Many of these projects stem from hands-on labs, research, and personal experimentation — including resistojet thruster development and vacuum chamber instrumentation.
+I'm an Aerospace Engineering student passionate about propulsion, controls, and experimental testing. Many of these projects stem from hands-on labs, research, and personal experimentation, including resistojet thruster development and vacuum chamber instrumentation.
 
 Feel free to explore, fork, or reach out!
 
