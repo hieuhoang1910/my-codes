@@ -36,7 +36,7 @@ Feel free to explore, fork, or reach out!
 
 ## 🛠️ Tools & Languages
 - Python (NumPy, Matplotlib, Pandas)
-- MATLAB (for certain analyses, not included yet)
+- MATLAB
 - Arduino C/C++ (in progress)
 - Git/GitHub for version control
 
