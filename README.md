@@ -48,5 +48,4 @@ Feel free to explore, fork, or reach out!
 
 ---
 
-## 📄 License
-MIT License (or specify project-level license if needed)
+
