@@ -1,0 +1,16 @@
+# Ignore executables
+*.exe
+*.dll
+*.pdb
+
+# Ignore compiled objects
+*.o
+*.obj
+
+# Ignore VS Code internal caches
+.vscode/ipch/
+.vscode/tags
+
+# Ignore local build output
+build/
+out/

@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Endoscopy Project",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-std=c++17",
+                "main.cpp",
+                "CameraManager.cpp",
+                "WhiteLightCamera.cpp",
+                "InfraredCamera.cpp",
+                "DiagnosticCamera.cpp",
+                "-o",
+                "endoscopy_demo.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}/src"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
